@@ -70,7 +70,7 @@ Used to the MATLAB IDE and interface and want something similar? No problem! The
 about Python is lots of people have done cool things with it, so there's a flavor of IDE and visualization
 that's just your style!
 
-Syntax and function differences vis a vis:
+Syntax and function differences vis a vis (and how to make Python act very similarly to Matlab):
 https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
 
 Here's a few links for more info on repenting of Matlab:
