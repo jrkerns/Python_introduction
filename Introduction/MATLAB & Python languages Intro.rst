@@ -5,12 +5,14 @@ MATLAB Introduction
 * New version every 6 months (YEARa, YEARb)
 
 Pros:
+
 * Very fast numerical operations
 * "Turn-key" solution
 * Built-in GUI tools, database connections, and version control (for recent versions)
 * Good and full documentation
 
 Cons:
+
 * No choice in IDE
 * Compiled programs must match MCR version *exactly*
 * Narrow focus (number-crunching)
@@ -36,6 +38,7 @@ This introduction will be presented mostly as a contrast to MATLAB, since most s
 * Two major versions: 2.7, 3.x
 
 Pros:
+
 * "Batteries included" philosophy with large standard library
 * Very easy to read syntax
 * High uptake in the scientific community
@@ -47,6 +50,7 @@ Pros:
 * Both object-oriented and functional
 
 Cons:
+
 * Not quite as "turn-key"; takes some set up for a full environment
 * Scientific users must utilize 3rd-party packages
 * Need a small amount of command-line knowledge
