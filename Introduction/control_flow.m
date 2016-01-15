@@ -2,8 +2,8 @@
 % Further documentation is here: http://www.mathworks.com/help/matlab/control-flow.html
 
 % IF statements execute code if the condition is true:
-do_if_loop = true;
-if true
+do_if_loop = false;
+if do_if_loop
     disp('if statement was called')
 else
     disp('This won"t get called unless the first condition is false')
